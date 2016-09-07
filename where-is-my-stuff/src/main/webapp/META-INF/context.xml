@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/spring-security-loginform-xml/"/>
+
+<mvc:resources mapping="/resources/**" location="/resources/" />
+<mvc:annotation-driven />

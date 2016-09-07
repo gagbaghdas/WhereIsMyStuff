@@ -1,0 +1,7 @@
+#surefire
+#Sun Sep 04 21:11:38 AMT 2016
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\lt-gbaghdas\\NetBeansProjects\\where-is-my-stuff
+localRepository=C\:\\Users\\lt-gbaghdas\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\lt-gbaghdas\\NetBeansProjects\\where-is-my-stuff
